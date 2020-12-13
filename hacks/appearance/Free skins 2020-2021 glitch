@@ -1,0 +1,32 @@
+// Change the number 1 to whatever item you need.
+// Equipment
+
+// Hat
+_.player.equipment.hat = 99;
+// Outfit
+_.player.equipment.outfit = 111;
+// Spell Relic
+_.player.equipment.spellRelic = 214;
+//Boots
+_.player.equipment.boots = 345;
+// Cloud mount (Only 1)
+_.player.equipment.mount = 890
+// Follow
+_.player.equipment.follow = 345;
+
+
+
+// Appearance
+
+// Gender (only "Male"/"Female")
+_.player.appearance = "male"
+// Hair style
+_.player.appearance.hairStyle = 7;
+// Hair color
+_.player.appearance.hairColor = 4;
+// Eye color
+_.player.appearance.eyeColor = 5;
+// Skin color
+_.player.appearance.skinColor = 2;
+// Face
+_.player.appearance.face = 8;
